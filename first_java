@@ -3,5 +3,6 @@ public static void main (String args[]){
 system.out.println("HI")
 System.out.println ("HELLO")
 System.out.println ("BYE")
+System.out.println ("Check fetch")
 }
 }
